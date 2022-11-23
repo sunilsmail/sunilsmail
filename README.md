@@ -1,4 +1,4 @@
-### Hi there, I'm Sree Vatsa Sistla - aka I-BLACKPANTHER 👋
+### Hi there, I'm Sunil Kumar Amujuri - aka Sunil 👋
 
 ## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
 
