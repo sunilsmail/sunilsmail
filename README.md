@@ -1,24 +1,19 @@
 ### Hi there, I'm Sunil Kumar Amujuri - aka Sunil 👋
 
-## I'm a ⚙️Mechanical Engineer🛠️ turned 🖥️Software Developer💻.
+## I'm a ⚙️Electronics and Communication Engineer🛠️ turned 🖥️Software Developer💻.
 
 - 🌱 I’m currently learning Node.Js and MongoDB
 - 💯 I’m looking for a good opportunity to show up my Skills.
 - 💬 Ask me anything related to JavaScript/TypeScript/Angular.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play games and reading defence blogs
-- 📧 Reach me through my mail -- sistlasreevatsa@gmail.com
-- 📞 +91 7386759665
+- 📧 Reach me through my mail -- sunilsmail.amujuri@gmail.com
+- 📞 +91 8341667400
 - 📍 Hyderabad,Telangana,India.
 
 ### Connect with me:
 
-[<img align="left" alt="i-blackpanther.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="i-blackpanther | youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="i-blackpanther | dev.to" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev.to]
-[<img align="left" alt="i-blackpanther | twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="i-blackpanther | linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="i-blackpanther | instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -57,10 +52,5 @@
 
 <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
 
-[link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
-[website]: https://instagram.com/sree_vatsa_sistla
-[youtube]: https://instagram.com/sree_vatsa_sistla
-[dev.to]: https://dev.to/iblackpanther
-[twitter]: https://instagram.com/sree_vatsa_sistla
-[instagram]: https://instagram.com/sree_vatsa_sistla
-[linkedin]: https://www.linkedin.com/in/sree-vatsa-sistla-5613b1192
+[link]: https://github.com/sunilsmail/sunilsmail
+[linkedin]: https://www.linkedin.com/in/sunil-kumar-7509a5153/
