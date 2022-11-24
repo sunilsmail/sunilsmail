@@ -50,7 +50,7 @@
 
 <img align='left' alt="I-BLACKPANTHER's Github Stats" src="https://github-readme-stats.i-blackpanther.vercel.app/api?username=I-BLACKPANTHER&count_private=true&show_icons=true&hide_border=true" />
 
-<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-BLACKPANTHER&show_icons=true&hide_border=true" />
+<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsmail&show_icons=true&hide_border=true" />
 
 [link]: https://github.com/sunilsmail/sunilsmail
 [linkedin]: https://www.linkedin.com/in/sunil-kumar-7509a5153/
