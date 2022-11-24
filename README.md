@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring micro-frontends and Azure pipelines
 - 💯 I’m looking for a good opportunity to show up my Skills.
-- 💬 Ask me anything related to JavaScript/TypeScript/Angular.
+- 💬 Ask me anything related to JavaScript/TypeScript/Angular/C#.NET/SQLSERVER/DOTNET CORE.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play games and reading defence blogs
 - 📧 Reach me through my mail -- sunilsmail.amujuri@gmail.com
