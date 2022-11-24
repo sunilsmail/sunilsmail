@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunil Kumar Amujuri - aka Sunil 👋
 
-## I'm a ⚙️Electronics and Communication Engineer🛠️ turned 🖥️Software Developer💻.
+## I'm a ⚙️Electronics and Communication Engineer🛠️ turned 🖥️Fullstack Developer💻.
 
 - 🌱 I’m currently learning Node.Js and MongoDB
 - 💯 I’m looking for a good opportunity to show up my Skills.
