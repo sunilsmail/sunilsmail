@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently exploring micro-frontends and Azure pipelines
 - 💯 I’m looking for a good opportunity to show up my Skills.
-- 💬 Ask me anything related to JavaScript/TypeScript/Angular/C#.NET/SQLSERVER/DOTNET CORE.
+- 💬 Ask me anything related to JavaScript/TypeScript/Angular/ReactJs/C#.net/SQL Server/Dotnet Core.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play games and reading defence blogs
+- ⚡ Fun fact: I love to watch cricket and reading technical blogs
 - 📧 Reach me through my mail -- sunilsmail.amujuri@gmail.com
 - 📞 +91 8341667400
 - 📍 Hyderabad,Telangana,India.
