@@ -2,7 +2,7 @@
 
 ## I'm a ⚙️Electronics and Communication Engineer🛠️ turned 🖥️Fullstack Developer💻.
 
-- 🌱 I’m currently learning Node.Js and MongoDB
+- 🌱 I’m currently exploring micro-frontends and Azure pipelines
 - 💯 I’m looking for a good opportunity to show up my Skills.
 - 💬 Ask me anything related to JavaScript/TypeScript/Angular.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
